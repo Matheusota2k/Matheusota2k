@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=207571&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Farias+Porto;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=207571&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Matheus+Farias+Porto;+Sejam+Bem+Vindos)](https://git.io/typing-svg)
 
 
 
@@ -19,8 +19,8 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/matheus-farias-porto/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/matheus.f2k/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/matheus-farias-porto/" target="blank"><img align="center" src="https://github.com/Matheusota2k/Matheusota2k/assets/114027492/e69df884-d569-4e51-9488-4145bab13eb1" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/matheus.f2k/" target="blank"><img align="center" src="https://github.com/Matheusota2k/Matheusota2k/assets/114027492/790fc496-10d3-478e-a9ab-f39ce06c6c82" alt="Instagram" height="50" width="50" /></a>
   
 </p>
 
